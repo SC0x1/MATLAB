@@ -1,7 +1,15 @@
 ##Description
-This is a prototype of smoothing steering on keyboard.
+This is a prototype of smoothing steering on keyboard. Which is based on a Pulse-width modulation (PWM).
 
-Which is based on a Pulse-width modulation (PWM).
+The result of steering will be fully depend on how faster you press the buttons.
+
+And, you can achieve a nice control on keyboard as if you were using Joystick.
+
+**-1** (means fully left)
+
+**0** (centering wheels)
+
+**1** (fully right)
 
 ### Usage
 To simulate steering input just press 'A'/'D' keys
