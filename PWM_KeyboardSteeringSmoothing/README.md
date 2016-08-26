@@ -5,11 +5,11 @@ The result of steering will be fully depend on how faster you press the buttons.
 
 And, you can achieve a nice control on keyboard as if you were using Joystick.
 
-**-1** (means fully left)
+**-1** (means full left)
 
 **0** (centering wheels)
 
-**1** (fully right)
+**1** (full right)
 
 ### Usage
 To simulate steering input just press 'A'/'D' keys
